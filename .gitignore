@@ -1,3 +1,2 @@
 .venv/
-src/models/
-src/data/
+data/
