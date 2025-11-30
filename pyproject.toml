@@ -6,14 +6,17 @@ readme = "README.md"
 requires-python = "==3.11.*"
 dependencies = [
     "datasets>=4.4.1",
+    "hdbscan>=0.8.40",
     "kaggle>=1.8.0",
     "kagglehub>=0.3.13",
     "matplotlib>=3.10.7",
     "pandas>=2.3.3",
     "seaborn>=0.13.2",
+    "sentence-transformers>=5.1.2",
     "torch",
     "torchaudio",
     "torchvision",
     "transformers>=4.57.1",
+    "umap-learn>=0.5.9.post2",
 ]
 
